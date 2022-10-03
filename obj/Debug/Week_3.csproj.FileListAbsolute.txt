@@ -1,0 +1,8 @@
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\bin\Debug\Week_3.exe.config
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\bin\Debug\Week_3.exe
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\bin\Debug\Week_3.pdb
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\obj\Debug\Week_3.csproj.AssemblyReference.cache
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\obj\Debug\Week_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\obj\Debug\Week_3.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\obj\Debug\Week_3.exe
+C:\Users\Rebecca\OneDrive\Documents\ESILV\COURS\A3\S5\DORSET\C#\Week_3\Week_3\obj\Debug\Week_3.pdb
